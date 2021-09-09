@@ -1,0 +1,20 @@
+.bg-img {
+    /* The image used */
+    background-image: url("bg.jpg");
+  
+    min-height: 15vw;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* Add the blur effect */
+    /* filter: blur(8px);
+    -webkit-filter: blur(8px); */
+    /* Needed to position the navbar */
+    position: relative;
+  }
+/* .bg-text{
+  z-index: 2;
+} */
